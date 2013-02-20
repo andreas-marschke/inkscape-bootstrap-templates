@@ -1,5 +1,5 @@
-if [ -d ~/.config/inkscape/templatesss/ ]; then
-	cp svg/* ~/.config/inkscape/templates/
+if [ -d ~/.config/inkscape/templates/ ]; then
+	cp svg/* ~/.config/inkscape/templates/ -r
 	echo "The templates were installed successfully."
 else
 	echo -e "Inkscape isn't installed on this computer.\n"

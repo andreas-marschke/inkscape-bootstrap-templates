@@ -15,7 +15,7 @@
    id="svg4207"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Bootstrap-1920x1080.svg">
+   sodipodi:docname="Bootstrap-1280x768.svg">
   <defs
      id="defs4209">
     <linearGradient
@@ -1458,7 +1458,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4102,8 +4102,8 @@
          id="flowPara3918-9-60-8-2">#dff0d8</flowPara></flowRoot>    <image
        y="284.36218"
        x="0"
-       id="image5194"
-       xlink:href="file:///home/schvarcz/Desktop/inkscape-bootstrap-templates/window-printscreen/1280x768.png"
+       id="image6084"
+       xlink:href="file:///home/schvarcz/Desktop/inkscape-bootstrap-templates/svg/window-printscreen/1280x768.png"
        height="90"
        width="1280" />
   </g>
